@@ -92,3 +92,10 @@ Complete final testing, documentation, and prepare the project for
 
 deployment.
 
+## Technologies
+
+- Backend: Node.js
+- Database: PostgreSQL
+- ORM: Prisma
+- Version Control: Git and GitHub
+
