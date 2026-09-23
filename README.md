@@ -94,8 +94,16 @@ deployment.
 
 ## Technologies
 
-- Backend: Node.js
-- Database: PostgreSQL
-- ORM: Prisma
-- Version Control: Git and GitHub
+* Backend: Node.js
+* Database: PostgreSQL
+* ORM: Prisma
+* Version Control: Git and GitHub
+
+
+
+\## Future Improvements
+
+* 
+* The system can be extended with online appointment booking,
+* notifications, and an admin dashboard.
 
